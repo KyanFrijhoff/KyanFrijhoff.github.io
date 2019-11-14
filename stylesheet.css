@@ -18,3 +18,7 @@ a:hover {
 a:active {
   color: white;
 }
+
+iframe{
+  frameborder: 0;
+}
